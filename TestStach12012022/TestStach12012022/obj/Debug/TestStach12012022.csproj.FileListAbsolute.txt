@@ -1,0 +1,10 @@
+G:\PRogramovani\TestStach12012022\TestStach12012022\bin\Debug\TestStach12012022.exe.config
+G:\PRogramovani\TestStach12012022\TestStach12012022\bin\Debug\TestStach12012022.exe
+G:\PRogramovani\TestStach12012022\TestStach12012022\bin\Debug\TestStach12012022.pdb
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.csprojAssemblyReference.cache
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.Properties.Resources.resources
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.csproj.GenerateResource.cache
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.csproj.CoreCompileInputs.cache
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.exe
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.pdb
+G:\PRogramovani\TestStach12012022\TestStach12012022\obj\Debug\TestStach12012022.Stach.resources
